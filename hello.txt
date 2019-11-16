@@ -1,1 +1,2 @@
 hello,i am first file on git.
+i am studing java and git.
